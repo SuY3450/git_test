@@ -1,2 +1,2 @@
 Hello, world!
-My name is kim suyeon.
+My name is kim_suyeon.
